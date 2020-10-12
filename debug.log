@@ -1,0 +1,4 @@
+[1012/144432.541:ERROR:registration_protocol_win.cc(103)] CreateFile: Sistem belirtilen dosyayý bulamýyor. (0x2)
+[1012/144442.813:ERROR:registration_protocol_win.cc(103)] CreateFile: Sistem belirtilen dosyayý bulamýyor. (0x2)
+[1012/144654.810:ERROR:registration_protocol_win.cc(103)] CreateFile: Sistem belirtilen dosyayý bulamýyor. (0x2)
+[1012/145939.238:ERROR:directory_reader_win.cc(43)] FindFirstFile: Sistem belirtilen yolu bulamýyor. (0x3)
